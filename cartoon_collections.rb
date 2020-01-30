@@ -5,7 +5,8 @@ def roll_call_dwarves(array)
 end
 
 def summon_captain_planet(array)
-  array.collect do |calls|
+  array.collect do |call|
+    puts 
   end 
 end
 
